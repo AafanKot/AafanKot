@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I’m currently working on: java, React Js , MySQL & Android apps using Java & Firebase<br>I’m looking to collaborate on: Java, Android, web, and UI/UX projects<br>I’m looking for help with: React frontend & app scalability<br>I’m currently learning: React.js <br>Ask me about: Android development, Java, Firebase, MySQL, Html/CSS <br>Fun fact: I learn best by building real projects 🚀
 
 
